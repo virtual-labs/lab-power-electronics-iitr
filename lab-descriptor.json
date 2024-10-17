@@ -9,7 +9,7 @@
     "phase": "3-ext",
     "collegeName": "IITR",
     "baseUrl": "pe-iitr.vlabs.ac.in",
-    "introduction": "Welcome to the Power Electronics Lab, an integral part of the B.Tech curriculum designed to provide students with a practical understanding of power electronic systems and devices. Our web-based simulator offers an interactive platform to explore key concepts and perform experiments related to the control, conversion, and management of electrical power. Through this simulator, you will have the opportunity to experiment virtually with power electronics circuits, such as rectifiers, inverters, and converters. It allows real-time data visualization and analysis, enabling you to observe circuit behavior, understand operational principles, and gain hands-on experience without the need for physical lab setups. This platform is designed to strengthen your theoretical knowledge and practical skills, preparing you for real-world applications in power ",
+    "introduction": "Welcome to the Power Electronics Lab, an integral part of the B.Tech curriculum designed to provide students with a practical understanding of power electronic systems and devices. Our web-based simulator offers an interactive platform to explore key concepts and perform experiments related to the control, conversion, and management of electrical power. Through this simulator, you will have the opportunity to experiment virtually with power electronics circuits, such as rectifiers, inverters, and converters. It allows real-time data visualization and analysis, enabling you to observe circuit behavior, understand operational principles, and gain hands-on experience without the need for physical lab setups. This platform is designed to strengthen your theoretical knowledge and practical skills, preparing you for real-world applications in power electronics engineering ",
     "experiments": [
   {
     "name": "Voltage Current Characteristics of Insulated Gate Bipolar Transistor (IGBT)",
@@ -26,7 +26,7 @@
     "deploy": true
   },
   {
-    "name": "Single Phase Full Wave Silicon Controlled Rectifier with R Load, RL Load & RLE",
+    "name": "Single Phase Full Wave Silicon Controlled Rectifier with R Load, RL Load & RLE Load",
     "short-name": "single-full-silicon",
     "repo": "https://github.com/virtual-labs/exp-single-phase-full-iitr",
     "tag": "v1.0.0",
